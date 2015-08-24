@@ -1,0 +1,2 @@
+api.awe.sm,url/share,3,http://vnexpress.net/,5c8b1a212434c2153c2f2c2f2c765a36140add243bf6eae876345f8fd11045d9,mKU7uN,facebook,http://facebook.com/sharer.php?u=AWESM_URL
+api.awe.sm,url/share,3,http://24h.com.vn/,5c8b1a212434c2153c2f2c2f2c765a36140add243bf6eae876345f8fd11045d9,mKU7uN,twiter,http://twitter.com/intent/tweet?text=This+is+the+coolest+API+evar!%26url=AWESM_URL%26via=awesm
